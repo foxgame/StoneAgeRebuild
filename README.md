@@ -9,6 +9,10 @@ v3.0.1
 
 -新增专属服，登录界面可选择。
 
-下载地址：
+##运行库
+- VC2022：https://aka.ms/vc14/vc_redist.x64.exe
+- .Net4.8 : https://go.microsoft.com/fwlink/?LinkId=2085155
 
+##下载地址：
 https://pan.baidu.com/s/1AJkpOc3js5Ssxx0QtSHr3A?pwd=cxj1
+
