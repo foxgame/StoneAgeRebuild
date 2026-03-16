@@ -4,6 +4,10 @@
 
 ### 通用配置：
 - ban.csv 屏蔽配置
+```csv
+type(类型),data(屏蔽内容)
+4,外挂
+```
 - battleMap.csv 战斗地图配置
 - chat.csv 聊天相关配置
 - creature.csv 怪物配置
