@@ -13,13 +13,9 @@
 	<agent name="script" base="https://api.deepseek.com" key="" model="deepseek-chat" mode="function" />
 	<agent name="chat" base="https://api.deepseek.com" key="" model="deepseek-chat" mode="chat" />
 </root>
-name,agent名称
-base,AI模型地址
-key,AI模型key
-model,AI模型
-mode,返回模式
-```
 
+```
+- name="agent名称" base="AI模型地址" key="api key" model="AI模型" mode="返回模式"
 - main，主模块，负责生成并分配任务
 - function，负责子模块执行具体操作
 - chat，聊天模块，负责输出信息
