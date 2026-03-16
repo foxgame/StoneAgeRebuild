@@ -4,7 +4,7 @@
 - 实验性功能，不定期更新。
 - /a 指令，操作当前角色。/a 帮我把xx宠物练到多少级，AI会自动调用相关模块练级。
 
-## 配置：
+## 配置 config.xml：
 ``` xml
 <root>
 	<agent name="main" base="https://api.deepseek.com" key="" model="deepseek-chat" mode="main" />
