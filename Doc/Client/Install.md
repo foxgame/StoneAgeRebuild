@@ -8,7 +8,7 @@
 
 - 客户都默认支持全部版本，可以通过服务器控制当前基础版本。
 - Mods/ Mod目录
-- Agents/ AI目录，参考[Agent](https://github.com/foxgame/StoneAgeRebuild/blob/master/Doc/Client/Agent.md)
+- Agents/ AI目录，参考[Agent](Agent.md)
 
 ## 启动：
 
