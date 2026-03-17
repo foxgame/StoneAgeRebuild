@@ -1,5 +1,5 @@
 # 石器时代重制版！
-## Unity完全重制，支持全平台，支持Mod，自定义服务器等。
+## Unity完全重制，支持全平台，支持Mod，专属服务器等。
 
 ## 社区
 - discord https://discord.gg/T3Rzsb64
