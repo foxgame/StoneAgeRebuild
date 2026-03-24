@@ -10,7 +10,9 @@
 ## 启动：
 
 - 启动数据库：
+mysql.bat
 - 启动游戏服务器：
+gameServer.bat
 
 ## 日常维护： 
 - GM命令：参考：[Chat命令](../Common/Chat.md)
