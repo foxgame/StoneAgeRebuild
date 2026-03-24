@@ -28,6 +28,40 @@ type(类型),data(屏蔽内容)
 
 ### 服务器配置：
 - gameConfig.xml
+
+```xml
+<root>
+	<base defalutStone="初始金币" maxLevel="最大等级" stone="携带石币" lp="升级点数" exp="经验倍率" fame="声望值" /> 
+	<login map="初始地图id" x="东" y="南" />
+	<auction sellRate="拍卖行手续费" />
+	<battle ridePower="0.6" nono0="1.0" nono1="1.3" crit0="1.5" crit1="2.5" rideDown="0.7" rideDown0="0.6" rideDown1="0.8" dp="5" rand="0.15" stone="1.5" def="1.55" defp="1.35" batk="1.0" bdef="0.75" lv="0.4" min="0.16" >
+		<b pet="251" atk="0.9" def="0.9" /> 战斗宠物伤害修正
+ 	</battle>
+	<catch>
+		<p pet="796" item="20247" num="1" /> 特殊捉宠道具
+		<p pet="812" item="20292" num="1" />
+	</catch>
+	<onceQuest> 一次性任务
+		<q id="69" />
+		<q id="70" />
+		<q id="71" />
+		<q id="72" />
+	</onceQuest>
+	<guestData vit="20" str="20" tgh="20" dex="20" hp="140" mp="100" fire="100" lv="1" charm="59" /> 
+	<trans questAdd="0.25" questCount="60" max="5" item="60020" v="0.1" s="0.1" t="0.1" d="0.1" stone="1000000" pet1="1373" pet2="1374" pet3="1375" pet4="1376" /> 转生相关
+	<transPet v="0.1" s="0.1" t="0.1" d="0.1" vMin="0.1" sMin="0.1" tMin="0.1" dMin="0.1" vMax="1.2" sMax="0.46" tMax="0.46" dMax="0.46" dead="0.006" luck="0.011" vrMin="-0.3" vrMax="0.2" srMin="-0.14" srMax="0.15" trMin="-0.14" trMax="0.15" drMin="-0.14" drMax="0.15" /> 转宠相关
+	<noTrade>
+		<t pet="1610" /> 禁止交易宠物
+	</noTrade>
+	<noAuction>
+		<t pet="1610" /> 禁止拍卖宠物
+	</noAuction>
+	<pet expItem="19549" br="0.4" bMin="4.5" bMax="4.89" r="0.2" rd="5" >
+		<p pet="1558" lp="4.9" r="0.2" /> 特殊宠物成长修正
+	</pet>
+</root>
+```
+
 - enemyCount.csv 怪物数配置
 - enemyGroup.csv 怪物组配置
 - exp.csv 经验
