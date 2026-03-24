@@ -9,6 +9,10 @@ type(类型),data(屏蔽内容)
 - battleMap.csv 战斗地图配置
 - chat.csv 聊天相关配置
 - creature.csv 怪物配置
+```csv
+name(名称),id,baseID,attack（攻击）,attackTarget（攻击目标）,attackAI（攻击AI）,defence（防御）,magic（魔法）,escape（逃跑）,wa0,wa1,wa2,wa3,wa4,wa5,wa6,rn,unknow,levelMin（最小等级）,levelMax（最大等级）,numMax（最大数量）,numMin（最小数量）,fight,exp,dp,type,pet（可捕捉）,item0（掉落道具）,item1,item2,item3,item4,item5,item6,item7,item8,item9,itemPro0（掉落概率）,itemPro1,itemPro2,itemPro3,itemPro4,itemPro5,itemPro6,itemPro7,itemPro8,itemPro9
+初期拥有的乌力乌力,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,-1,-1,0,1,1234,1235,0,0,0,0,0,0,0,0,800,200,0,0,0,0,0,0,0,0
+```
 - creatureBase.csv 怪物基础配置
 - effect.csv 特效配置
 - item.csv 道具配置
