@@ -14,14 +14,26 @@ name(名称),id,baseID,attack（攻击）,attackTarget（攻击目标）,attackA
 初期拥有的乌力乌力,1,2,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,1,1,-1,-1,0,1,1234,1235,0,0,0,0,0,0,0,0,800,200,0,0,0,0,0,0,0,0
 ```
 - creatureBase.csv 怪物基础配置
+```
+name(名称),id,initNum(初始属性点),levelUpPoint（升级成长）,baseVitality（基础体力）,baseStrength（基础力量）,baseToughness（基础耐力）,baseDexterity（基础敏捷）,ai,get,earth（地）,water（水）,fire（火）,wind（风）,poison（抗性）,paralysis,sleep,stone,drunk,confusion,petSkill0（技能）,petSkill1,petSkill2,petSkill3,petSkill4,petSkill5,petSkill6,rare,critical,counter,slot,animation,petFlag,size,atomBaseAdd0,atomFixMin0,atomFixMax0,atomBaseAdd1,atomFixMin1,atomFixMax1,atomBaseAdd2,atomFixMin2,atomFixMax2,atomBaseAdd3,atomFixMin3,atomFixMax3,atomBaseAdd4,atomFixMin4,atomFixMax4,limitLevel（等级限制）,amalgamation,material0（合成相关）,material1,material2,material3,material4
+乌力,1,10,4.5,20,12,15,25,150,11,80,20,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,1,6,100250,1,0,0,700,700,0,700,700,0,700,700,0,700,700,0,700,700,0,0,0,1,2,3,4
+```
 - effect.csv 特效配置
 - item.csv 道具配置
 - itemCount.csv 道具叠加配置
+```
+```
 - magic.csv 魔法配置
+```
+```
 - map.csv 地图配置
 - photo.csv 相册配置
 - skill.csv 技能配置
+```
+```
 - skillCode.csv 技能学习配置
+```
+```
 - string.csv 文字相关配置
 - texture.csv 贴图配置
 
@@ -67,18 +79,32 @@ name(名称),id,baseID,attack（攻击）,attackTarget（攻击目标）,attackA
 ```
 
 - enemyCount.csv 怪物数配置
+```
+```
 - enemyGroup.csv 怪物组配置
+```
+```
 - exp.csv 经验
+```
+```
 - expEnemy.csv 怪物经验
+```
+```
 - family.csv 家族配置
 - gamble.csv 游乐场配置
 - gambleItem.csv 游乐场道具配置
 - mapWarp.csv 地图跳转配置
+```
+```
 - mm.csv 宠物转生配置
 - pvp.csv pvp配置
 - question.csv 百人道场配置
 - race.csv 游乐场竞速配置
 - vip.csv vip配置
+```
+```
 - vipShop.csv vip商店配置
+```
+```
 - npc/ npc配置
   
