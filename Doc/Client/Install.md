@@ -22,4 +22,6 @@
 ## 专属服
 - 在登录界面输入专属服IP地址。
 - 官方服务器地址坑位，可联系客服。
+- 专属服账户共用统一账户ID。
+
 <img width="1470" height="821" alt="image" src="https://github.com/user-attachments/assets/19a4c076-013c-4682-b640-715a280f0c48" />
