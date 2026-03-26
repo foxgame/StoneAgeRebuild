@@ -35,7 +35,9 @@
 - addon.md , addon模块system
 - chat.md , chat模块system
 
-
+## 实现原理
+- 功能相对复杂，可联系开发者咨询
+  
 ## 快速使用
 - 申请大模型API KEY，修改config.xml key字段，默认需要五个模型，可根据情况自行添加
 - /ai x ，加载agents。
