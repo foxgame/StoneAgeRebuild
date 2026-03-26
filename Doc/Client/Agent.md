@@ -40,4 +40,7 @@
 - /ai x ，加载agents。
 - /a 指令，操作当前角色。/a 我要去xx村，AI会自动调用相关脚本操作。
 
-![Demo Video](../Res/AgentTest1.mp4)
+
+https://github.com/user-attachments/assets/05b953fe-c2e6-40fe-9cf9-eec178b03517
+
+
