@@ -14,7 +14,11 @@
 ## 启动：
 
 - PC端 运行启动器launcher.exe，自动更新到最新版本。
-  
+## 注册账户
+- 点击创建账户按钮进行
+- 账户密码必须大于6位、小于31位，不包含特殊符号。
+<img width="1475" height="830" alt="417484435473f5b3a7af15165111ed44" src="https://github.com/user-attachments/assets/02edbebe-186f-4c63-a71b-efe3dbc57981" />
+
 ## 专属服
 - 在登录界面输入专属服IP地址。
 - 官方服务器地址坑位，可联系客服。
