@@ -10,7 +10,7 @@
 - QQ2群：562811250
 - QQ3群：166586460
 - QQ4群：591757738
-- 微信群：联系微信refox99
+- 微信群：联系微信refox0、refox99
 
 ## 指引
 - [客户端指引](https://github.com/foxgame/StoneAgeRebuild/blob/master/Doc/Client/Install.md)
@@ -49,5 +49,5 @@
 - 新增agent部分脚本。
 
 ## 联系我们
-- 开发者：QQ55909028，微信fox526594
-- 客服：微信refox0,refox99
+- 开发者：微信fox526594
+- 客服：微信refox0、refox99
