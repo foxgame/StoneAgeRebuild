@@ -37,6 +37,15 @@
 - 插件脚本，兼容老STW、XP脚本
 <img width="1474" height="831" alt="image" src="https://github.com/user-attachments/assets/ebdeba1e-de09-47e5-ba14-e723a0c46d64" />
 
+- 角色系统
+<img width="1478" height="839" alt="image" src="https://github.com/user-attachments/assets/c4a29783-3f72-4bef-8b29-7b26e9785983" />
+
+- 宠物系统，点击成长可获得当前成长率
+<img width="1465" height="836" alt="image" src="https://github.com/user-attachments/assets/76cb5060-737d-4acc-b87f-507d98c1bf5c" />
+
+- 道具系统，使用拖动装备道具
+<img width="1480" height="825" alt="image" src="https://github.com/user-attachments/assets/bc15c450-156e-4259-b5cf-31a9c509c559" />
+
 - 功能开关
 <img width="1485" height="835" alt="114bea9582fb5dc856f0dc9050b15e2f" src="https://github.com/user-attachments/assets/734f08e2-efc9-45e0-8d8a-1c932274fba6" />
 <img width="361" height="618" alt="89440187b56c4ec7a2086b6e0ff5cae9" src="https://github.com/user-attachments/assets/55f70a92-efd4-4dcc-97f0-0ebb23c5c055" />
