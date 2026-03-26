@@ -6,11 +6,11 @@
 - 专属服，可使用3.0原版模板，5.0原版模板，根据需求自行修改。
 
 ## 社区
+- 微信群：联系微信refox0、refox99
 - QQ1群：280473156
 - QQ2群：562811250
 - QQ3群：166586460
 - QQ4群：591757738
-- 微信群：联系微信refox0、refox99
 
 ## 指引
 - [客户端指引](https://github.com/foxgame/StoneAgeRebuild/blob/master/Doc/Client/Install.md)
