@@ -35,7 +35,7 @@
 - chat.md , chat模块system
 
 
-## 使用
+## 快速使用
 - 申请大模型API KEY，修改config.xml key字段，默认需要五个模型，可根据情况自行添加
 - /ai x ，加载agents。
 - /a 指令，操作当前角色。/a 我要去xx村，AI会自动调用相关脚本操作。
