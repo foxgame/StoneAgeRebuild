@@ -40,6 +40,4 @@
 - /ai x ，加载agents。
 - /a 指令，操作当前角色。/a 我要去xx村，AI会自动调用相关脚本操作。
 
-<video width="320" >
-  <source src="../Res/AgentTest1.mp4" type="video/mp4">
-</video>
+![Demo Video](../Res/AgentTest1.mp4)
