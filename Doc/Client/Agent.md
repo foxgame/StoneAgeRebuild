@@ -9,7 +9,7 @@
 	<agent name="main" base="https://api.deepseek.com" key="" model="deepseek-chat" mode="main" />
 	<agent name="map" bae="https://api.deepseek.com" key="" model="deepseek-chat" mode="function" />
 	<agent name="player" base="https://api.deepseek.com" key="" model="deepseek-chat" mode="function" />
-	<agent name="script" base="https://api.deepseek.com" key="" model="deepseek-chat" mode="function" />
+	<agent name="addon" base="https://api.deepseek.com" key="" model="deepseek-chat" mode="function" />
 	<agent name="chat" base="https://api.deepseek.com" key="" model="deepseek-chat" mode="chat" />
 </root>
 
