@@ -3,6 +3,7 @@
 - 理论上接入视觉模块后，可支持任意类型游戏。
 - 实验性功能，不定期更新。
 
+
 ## 配置 config.xml：
 ``` xml
 <root>
@@ -40,7 +41,6 @@
 - /ai x ，加载agents。
 - /a 指令，操作当前角色。/a 我要去xx村，AI会自动调用相关脚本操作。
 
-
+## 效果展示
 https://github.com/user-attachments/assets/05b953fe-c2e6-40fe-9cf9-eec178b03517
-
 
