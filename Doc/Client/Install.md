@@ -25,3 +25,9 @@
 - 专属服账户共用统一账户ID。
 
 <img width="1470" height="821" alt="image" src="https://github.com/user-attachments/assets/19a4c076-013c-4682-b640-715a280f0c48" />
+
+
+## 功能
+- 新手指引
+- 任务指引
+- [来吉卡](../Common/LuckyCard.md)
