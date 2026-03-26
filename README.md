@@ -17,6 +17,10 @@
 ## 下载地址：
 - 客户端:[百度盘](https://pan.baidu.com/s/1AJkpOc3js5Ssxx0QtSHr3A?pwd=cxj1)
 
+## sqfox老宣传图
+<img width="1136" height="640" alt="iphone5-1" src="https://github.com/user-attachments/assets/a52ca768-c81b-4084-acf4-83a4d660bdff" />
+<img width="1136" height="640" alt="iphone5-6" src="https://github.com/user-attachments/assets/65270f10-1c98-4296-b4f2-60aaba06d9a8" />
+
 ## 更新说明：
 
 ### v3.0.1
