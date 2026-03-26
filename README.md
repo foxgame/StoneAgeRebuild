@@ -7,7 +7,8 @@
 - QQ2群：562811250
 - QQ3群：166586460
 - QQ4群：591757738
-  
+- 微信群：联系微信refox99
+
 ## 指引
 - [客户端指引](https://github.com/foxgame/StoneAgeRebuild/blob/master/Doc/Client/Install.md)
 - [服务器指引](https://github.com/foxgame/StoneAgeRebuild/blob/master/Doc/Server/Install.md)
@@ -43,3 +44,7 @@
 ### v3.0.5 (*2026/3/26 11:33*)
 - 新增插件部分lua脚本。
 - 新增agent部分脚本。
+
+## 联系我们
+开发者：QQ55909028，微信fox526594
+客服：微信refox0,refox99
