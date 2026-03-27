@@ -14,6 +14,7 @@
 ## 启动：
 - PC端 运行启动器launcher.exe，自动更新到最新版本。
 - 手机快速体验：下载 Unity Connect App -> 我的-> 右上角扫码.(二维码动态生成180秒，请联系客服生成)
+<img width="256" height="256" alt="test" src="https://a.unity.cn/client_api/v1/buckets/3e9f067a-dd2c-4991-9157-9ab26f2c6bf0/content/test.png" />
 
 ## 注册账户
 - 点击创建账户按钮进行
