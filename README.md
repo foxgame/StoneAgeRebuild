@@ -6,7 +6,9 @@
 - 专属服，可使用3.0原版模板，5.0原版模板，根据需求自行修改。
 
 ## 社区
-- 微信群：联系微信refox0、refox99
+- 微信群：
+![37fbbce7876d3cadac9fe1b1d81cb263](https://github.com/user-attachments/assets/e7f54fa6-9334-457e-b0ff-4bde95194b13)
+
 - QQ1群：280473156
 - QQ2群：562811250
 - QQ3群：166586460
