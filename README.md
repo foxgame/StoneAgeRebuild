@@ -27,7 +27,9 @@
 <img width="1136" height="640" alt="iphone5-1" src="https://github.com/user-attachments/assets/a52ca768-c81b-4084-acf4-83a4d660bdff" />
 <img width="1136" height="640" alt="iphone5-6" src="https://github.com/user-attachments/assets/65270f10-1c98-4296-b4f2-60aaba06d9a8" />
 
-## 更新说明：
+## 更新计划[Timeline](Timeline.md)
+
+## 更新日志：
 
 ### v3.0.1
 - 新增实验性功能AI Agent，参考[Agent](Doc/Client/Agent.md) ，不定期更新，AI自动操作当前角色、其他角色、游客。
