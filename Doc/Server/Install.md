@@ -20,6 +20,9 @@ gameServer.bat
 - GM命令：参考：[Chat命令](../Common/Chat.md)
 - 关闭服务器使用Chat命令：/exit。
 - 每周至少重启一次服务器，避免数据异常。
+- 备份目录，mysql-xx\data\sagamenew\
+- 手动更新服务器时不要更新SQLServer，禁止覆盖mysql-xx\数据库目录，只更新GameServer目录。
+- 后续会整和到一键开服平台，自动更新备份。
 
 ## 其他
 - 所有专属服共用统一的账户ID，角色不同，需要专属服自行进行备份维护。
