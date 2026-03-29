@@ -43,6 +43,11 @@
 - /ai x ，加载agents。
 - /a 指令，操作当前角色。/a 我要去xx村，AI会自动调用相关脚本操作。
 
+# 已支持的指令
+- 去xx村
+- 查找xx脚本并执行
+- 当前位置
+
 ## 效果展示
 https://github.com/user-attachments/assets/05b953fe-c2e6-40fe-9cf9-eec178b03517
 
