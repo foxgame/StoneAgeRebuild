@@ -40,13 +40,16 @@
   
 ## 快速使用
 - 申请大模型API KEY，修改config.xml key字段，默认需要五个模型，可根据情况自行添加
-- /ai x ，加载agents。
+- /ai x ，初始化ai，加载agents。
 - /a 指令，操作当前角色。/a 我要去xx村，AI会自动调用相关脚本操作。
+- 指挥其他角色，/r id，进入私聊模式，a:指令 需要对方已开启/ai 
 
 # 已支持的指令
 - 去xx村
+- 去xx挂机
 - 查找xx脚本并执行
-- 当前位置
+- 查询当前位置
+- 返回记录点
 
 ## 效果展示
 https://github.com/user-attachments/assets/05b953fe-c2e6-40fe-9cf9-eec178b03517
