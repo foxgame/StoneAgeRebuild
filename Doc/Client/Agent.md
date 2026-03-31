@@ -50,6 +50,8 @@
 - 查找xx脚本并执行
 - 查询当前位置
 - 返回记录点
+- 跟随指定玩家
+- 组队、离开队伍
 
 ## 效果展示
 https://github.com/user-attachments/assets/05b953fe-c2e6-40fe-9cf9-eec178b03517
