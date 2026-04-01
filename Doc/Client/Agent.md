@@ -12,6 +12,7 @@
 	<agent name="player" base="https://api.deepseek.com" key="" model="deepseek-chat" mode="function" />
 	<agent name="addon" base="https://api.deepseek.com" key="" model="deepseek-chat" mode="function" />
 	<agent name="chat" base="https://api.deepseek.com" key="" model="deepseek-chat" mode="chat" />
+	<agent name="story" base="https://api.deepseek.com" key="" model="deepseek-chat" mode="chat" />
 </root>
 
 ```
@@ -35,6 +36,7 @@
 - map.md ， map模块system
 - addon.md , addon模块system
 - chat.md , chat模块system
+- story.md , story模块system
 
 ## 实现原理
 - 功能相对复杂，可联系开发者咨询
