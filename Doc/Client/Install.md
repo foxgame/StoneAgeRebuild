@@ -29,7 +29,7 @@
 <img width="1470" height="821" alt="image" src="https://github.com/user-attachments/assets/19a4c076-013c-4682-b640-715a280f0c48" />
 
 
-## 功能
+## 一般功能
 - 新手指引
 <img width="1484" height="834" alt="3da0f8e6f17a19e1309cecab60211c72" src="https://github.com/user-attachments/assets/ef038219-c911-4229-8cd1-5417b8f90182" />
 
@@ -57,4 +57,9 @@
 
 - 商业化，VIP系统，[来吉卡](../Common/LuckyCard.md)
 <img width="1476" height="840" alt="5c37297cb7ecee4538628f9b0feb476c" src="https://github.com/user-attachments/assets/b0b5338b-d01a-41fc-a781-dad4e29efa3f" />
- 
+
+## 家族功能
+- 庄园挑战、申请默认需要30人，声望100000申请。
+- 确认挑战时间每周六12:00-20:00
+- 召唤家族时间每周六20:00-20:15
+- 家族战斗时间每周六20:15-21:45
