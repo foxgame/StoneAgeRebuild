@@ -7,7 +7,7 @@
 ## 配置：
 
 - 客户都默认支持全部版本，可以通过服务器控制当前基础版本。
-- Mods/ Mod目录
+- Mods/ Mod目录，参考[Mod](../Common/Mod.md)
 - Agents/ AI目录，参考[Agent](Agent.md)
 - Configs/ 配置目录，参考[Config](../Common/Config.md)
  
