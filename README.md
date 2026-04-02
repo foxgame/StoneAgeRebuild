@@ -12,7 +12,7 @@
 - QQ3群：166586460
 - QQ4群：591757738
 - 微信群：
-<img width="256" height="512" alt="wx" src="https://github.com/user-attachments/assets/88197800-82a6-4ffe-ac17-832752ecdcb9" />
+<img width="256" height="512" alt="wx" src="https://github.com/user-attachments/assets/622b1f1d-fdeb-42d7-aec9-50a4c10be099)" />
 
 ## 指引
 - [客户端指引](https://github.com/foxgame/StoneAgeRebuild/blob/master/Doc/Client/Install.md)
