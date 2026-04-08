@@ -58,7 +58,7 @@
 - 系统设置，可设置自动战斗、自动抓宠、自动吃药等。
 <img width="1484" height="835" alt="image" src="https://github.com/user-attachments/assets/890ab1ab-f283-4fd3-89ee-c6426684530d" />
 
-- 商业化，VIP系统，[来吉卡](../Common/LuckyCard.md)
+- 商业化，VIP系统，[来吉卡](../Common/LuckyCard.md)，月卡每天送礼包。
 <img width="1476" height="840" alt="5c37297cb7ecee4538628f9b0feb476c" src="https://github.com/user-attachments/assets/b0b5338b-d01a-41fc-a781-dad4e29efa3f" />
 
 ## 家族功能
