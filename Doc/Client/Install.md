@@ -33,6 +33,9 @@
 - 新手指引
 <img width="1484" height="834" alt="3da0f8e6f17a19e1309cecab60211c72" src="https://github.com/user-attachments/assets/ef038219-c911-4229-8cd1-5417b8f90182" />
 
+- 新手礼包兑换，联系客服获取
+<img width="1486" height="840" alt="image" src="https://github.com/user-attachments/assets/18bb44bd-5155-4140-8d99-e4dd2e8fbb8a" />
+
 - 任务指引
 <img width="1480" height="840" alt="image" src="https://github.com/user-attachments/assets/effdfb94-c897-42ed-b4d9-ebdbff03fc59" />
 
