@@ -56,6 +56,8 @@
 - 跟随指定玩家
 - 组队、离开队伍
 - 查询npc某某，返回当前地图某某信息
+- 去某某地挂到多少级。
+- 去某某地把宠物挂到多少级。
 
 ## 效果展示
 https://github.com/user-attachments/assets/05b953fe-c2e6-40fe-9cf9-eec178b03517
