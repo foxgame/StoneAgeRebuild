@@ -46,15 +46,15 @@
 # 练级
 - <font color=#FF0000>本服暂时最高级数**140**级</font>
 - 石器时代是一种很古老的练级方式，挂机。如果你不理解什么是挂机，就走到村口去感受一下。
-- 这个服务器没有外挂，代替的方法是依次点击：系统，自动战斗。（自动挂机，用于挂等级，无掉落，适用于目前3.0版本快速练级，后续预计会关闭掉。）
+- 这个服务器没有外挂，代替的方法是依次点击：系统，自动战斗。（**自动挂机，用于挂等级，无掉落，适用于目前3.0版本快速练级，后续预计会关闭掉。**）
 - 练级可以单人练，也可以组队练，只要合击打死怪物，就都有经验。 所以想要迅速练级，只要可以合击上，就去高等级点加别人队伍练级。
 - 所以我们的练级路线是：海主人，大象，雷龙。（一下为一个人物攻略，建议先练1个人，再用这个人带队，一队人练级按练功脚本。）
 - 1级我们可以直接去海主人，先来到飞机场坐飞机。打开地图，走到图片位置，坐飞机。
 - 待飞机来后，正对飞机点组队按钮，就会加入飞机，飞机头上就有一个L标志。然后输入 go 就可以起飞了。
 - 按图示位置进入洞窟，点击宠物按钮，把宠物状态都点成休息。
 - 进入洞窟后，看到头上有 L 的人（没有也不要紧），赶快过去加，一起练级。加入队伍方法和坐飞机一样。
-<img width="863" height="458" alt="image" src="https://github.com/user-attachments/assets/9f0a4c80-3e67-4da3-9a3c-fcfbf4f8bbe1" />
-<img width="863" height="458" alt="image" src="https://github.com/user-attachments/assets/6e1c2252-fa50-4e50-9d5c-def07ee568da" />
+<img width="863" height="658" alt="image" src="https://github.com/user-attachments/assets/9f0a4c80-3e67-4da3-9a3c-fcfbf4f8bbe1" />
+<img width="863" height="658" alt="image" src="https://github.com/user-attachments/assets/6e1c2252-fa50-4e50-9d5c-def07ee568da" />
 <img width="863" height="558" alt="image" src="https://github.com/user-attachments/assets/a96df270-a627-405d-88f8-c39944c6a2c7" />
 <img width="863" height="558" alt="image" src="https://github.com/user-attachments/assets/024c73d9-b77b-4240-8d9c-2a0318355e52" />
 
@@ -101,3 +101,18 @@
 - 忠诚大于0且小于一定数量的宠物。
 - 忠诚为 0 的宠物暂时不会逃跑。
 
+## 占卜
+- 会影响抽卡宠物成长。
+- 会影响转生宠物。
+- 建议小吉以上抽卡、转宠物等。
+<img width="821" height="504" alt="image" src="https://github.com/user-attachments/assets/a913e8d3-a97d-4386-9bc1-277d95eee7a5" />
+
+# 抓宠
+- 成长：每一级攻防敏增加总和称为成长。成长越高，宠物越好。宠物设定：抓来的宠成长最高 4.90，野生非 1 级宠成长 4.5
+- 宠物都是定成长的，跳级不会影响成长，但是不能被 NPC 打死（据说）
+- 查询宠物成长
+<img width="840" height="594" alt="image" src="https://github.com/user-attachments/assets/83a6d616-c3a8-492b-b16f-c49bd69c43c7" />
+<img width="534" height="69" alt="image" src="https://github.com/user-attachments/assets/a2501b36-b268-4daf-a73b-2414e6af83ce" />
+
+- 一般而言，只抓 4.88+成长的 1 级宠物。任务宠物可以留下4.85+的。
+- **来吉卡会在占卜小吉以上会大概率抽出4.90宠物**
