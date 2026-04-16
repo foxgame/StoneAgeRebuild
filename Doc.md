@@ -20,7 +20,6 @@
 <img width="451" height="542" alt="image" src="https://github.com/user-attachments/assets/8470f2a2-cf25-4225-bf7c-1395e2b937b5" />
 
 - 这里我们先来一份自强的攻略，几乎不靠其他人。首先，一定要取一个响亮的名字。这里不得不提一下我和朋友见过最厉害的名字：黄贱滑
-<img width="863" height="558" alt="image" src="https://github.com/user-attachments/assets/366332df-7ed8-4b47-9ad3-b26baea2c527" />
 
 ## 加点
 - 体力：血量
@@ -30,6 +29,8 @@
 - 新人先加敏捷 70-100，剩下的全加攻。简单说这样既方便练级又方便做任务
 （题外话，合击的条件是我方敏捷均高于敌人，或者均低于敌人。理解这点对大家将来练宠，练级都很有帮助）
 不用改点酒三转考虑改点，用改点酒直接 5 转改点（改点酒需要来吉卡购买，均价1元左右）。
+
+<img width="863" height="558" alt="image" src="https://github.com/user-attachments/assets/366332df-7ed8-4b47-9ad3-b26baea2c527" />
 
 ## 属性：
 - 地克水
