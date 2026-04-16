@@ -83,12 +83,16 @@
 # 练级补充1：80 级后最便捷挂机方法
 - 如果你按照上面攻略来，现在就有骑宠和一个 80+攻人。 1）	先去福尔德村购买回旋镖（在买羽毛旁）
 <img width="872" height="490" alt="image" src="https://github.com/user-attachments/assets/c8b64842-3a46-4303-a054-99741e2be3b3" />
+
 - 回到鱼村，把抓来的骑宠设置战斗，然后运行练功脚本第一个(乌龟洞)。到达目的地后自动战斗，把骑宠练至忠诚度 100（大概 11 级），然后就可以骑乘了。
 <img width="864" height="486" alt="image" src="https://github.com/user-attachments/assets/47d20887-0a38-448c-b2c3-d1fdac031f16" />
-- 会渔村拿不可思议的贝壳后运行交通脚本到萨村。
+
+- 回渔村拿不可思议的贝壳后运行交通脚本到萨村。
 <img width="877" height="493" alt="image" src="https://github.com/user-attachments/assets/643b17d6-7175-4384-8a8a-aa47e9199fe4" />
+
 - 运行任务脚本，萨村到老萨。待到目的地后，装备回旋镖（确认是加完人物点数，敏 70-80，剩余全加攻），自动战斗。可以挂到 100 级后做任务（记得骑宠练级，骑宠也可以快速升级）。
 <img width="879" height="495" alt="image" src="https://github.com/user-attachments/assets/e2aa33a9-b0ce-44da-a791-edb26e54930a" />
+
 - 完成这一步，你就基本已经可以正式开启你的石器之旅了。
 - 很多朋友保留当年习惯练血敏人（包括我开始玩），这真的是个很没效率的游戏方式。
 - 练攻人，练攻人，练攻人!!! 绝对帮你提升做任务速度和降低任务难度。做任务最好请骑雷龙带飞镖。攻人的作用还在于帮你打灵石，打素材，练宠等。
