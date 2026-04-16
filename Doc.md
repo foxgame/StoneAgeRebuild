@@ -162,7 +162,8 @@
 # 抓宠补充1
 - 抓猩猩：加加庄猩猩哪里抓？(福村这个门出去)
 <img width="865" height="559" alt="image" src="https://github.com/user-attachments/assets/7d10887b-d2d8-4cf1-b9d5-35fa5c68f2a3" />
-- 到这个洞窟（然后上 4 楼），在4楼这原地自动抓宠就可以饿了
+
+- 到这个洞窟（然后上 4 楼），在4楼这原地自动抓宠就可以哦了
 <img width="650" height="421" alt="image" src="https://github.com/user-attachments/assets/969bca13-d074-4b60-814d-97e86783f2e8" />
 <img width="693" height="449" alt="image" src="https://github.com/user-attachments/assets/23d0da53-ab93-423d-a267-6e4ec78d20a5" />
 <img width="694" height="448" alt="image" src="https://github.com/user-attachments/assets/8ebbf303-968d-481c-a2f7-05a16ec73fa2" />
