@@ -52,5 +52,52 @@
 - 1级我们可以直接去海主人，先来到飞机场坐飞机。打开地图，走到图片位置，坐飞机。
 - 待飞机来后，正对飞机点组队按钮，就会加入飞机，飞机头上就有一个L标志。然后输入 go 就可以起飞了。
 - 按图示位置进入洞窟，点击宠物按钮，把宠物状态都点成休息。
-<img width="794" height="960" alt="image" src="https://github.com/user-attachments/assets/9f0a4c80-3e67-4da3-9a3c-fcfbf4f8bbe1" />
+- 进入洞窟后，看到头上有 L 的人（没有也不要紧），赶快过去加，一起练级。加入队伍方法和坐飞机一样。
+<img width="863" height="558" alt="image" src="https://github.com/user-attachments/assets/9f0a4c80-3e67-4da3-9a3c-fcfbf4f8bbe1" />
+<img width="863" height="558" alt="image" src="https://github.com/user-attachments/assets/6e1c2252-fa50-4e50-9d5c-def07ee568da" />
+<img width="863" height="558" alt="image" src="https://github.com/user-attachments/assets/a96df270-a627-405d-88f8-c39944c6a2c7" />
+<img width="863" height="558" alt="image" src="https://github.com/user-attachments/assets/024c73d9-b77b-4240-8d9c-2a0318355e52" />
+
+- 加入队伍后迅速点击系统，自动战斗，就可以开始挂机了。
+<img width="863" height="559" alt="image" src="https://github.com/user-attachments/assets/e0beb2a5-3490-42a7-ad93-1b3fec2bc4a4" />
+
+- 在战斗间隙，点击状态，全部加速度。大概2-3分钟就可以升级到18级，
+- 速度达到71.就可以取消自动战斗，再点一下左上角牵手按钮就可以脱队了。
+- 然后点击脚本，交通脚本，鱼村到福村（原地直接运行，不要回渔村）。
+<img width="864" height="559" alt="image" src="https://github.com/user-attachments/assets/c3925a4a-a141-4055-b30b-dbcdba1cee2f" />
+
+- 到达福村后进入这个商店购买精灵羽毛
+<img width="862" height="558" alt="image" src="https://github.com/user-attachments/assets/6a749992-38b9-4e43-a70a-8c2911d64c34" />
+<img width="863" height="558" alt="image" src="https://github.com/user-attachments/assets/e20dd527-14f7-4af6-bd49-3b8a3a04d8b5" />
+
+- 然后来到右下角坐飞机去大象，操作同上。
+<img width="862" height="558" alt="image" src="https://github.com/user-attachments/assets/9f6dd186-27d5-4867-930c-61c621963ad2" />
+<img width="863" height="558" alt="image" src="https://github.com/user-attachments/assets/2fdbd678-479b-4a17-9fab-54fe964bea8f" />
+
+- 找个队安心挂机。大概要挂4小时。就可以到80级了。点数全部加攻击力。
+- 在这个空档，我们可以开始建几个小号（加点方式一样），建议一样的骑宠，方便等下抓取。然后在渔村逛逛，看看有谁送宠送装备。
+- 待80级后可以上50年前的波拉岛挂机，81可以做金飞航空上伊甸园。建议新手先上波拉岛挂机。
+- 回渔村拿不可思议的贝壳运行练功脚本120英雄岛，然后加队挂机。或者用回旋镖在水坝洞窟单挂（攻略请见下面抓宠攻略后）。
+- 另外可以完成金飞航空任务去伊甸园挂机，任务下面会说。建议在 140 二楼挂机，可以打到龙骨卖钱。切记游戏石币大多来自于卖肉和素材。
+
+## 聊天命令：
+- /help0,,0,查询帮助
+- /fame,空格 数量,0,兑换声望
+- /fightf,,0,家族战强制战斗
+- /team,空格 (1-4),0,踢出队伍
+- /lover,空格 ID,0,绑定爱人
+- /bet,0,空格 数量,赌场下注
+- /name,空格 新名字,0,改变名字，需要消耗点卷
+- /autofight,开启自动战斗。
+- /autocatch，开启自动捕捉。
+- /ai，空格 名称，加载ai。
+- /a,空格 指令描述，需要可操作当前角色、其他角色、游客等，需要绑定大模型API Key，可自行在deepseek等平台申请。
+
+## Npc聊天：
+- 首先对话过一次npc，再在聊天中输入：例如卡蜜儿。
+- 适用于任务npc、留言板等。
+
+## nono宠：
+- 忠诚大于0且小于一定数量的宠物。
+- 忠诚为 0 的宠物暂时不会逃跑。
 
