@@ -17,8 +17,8 @@
 ## 指引
 - [客户端指引](https://github.com/foxgame/StoneAgeRebuild/blob/master/Doc/Client/Install.md)
 - [服务器指引](https://github.com/foxgame/StoneAgeRebuild/blob/master/Doc/Server/Install.md)
-- [攻略](),制作中
 ## 攻略
+- [石器重制版攻略](Doc.md)
 
 ## 下载地址：
 - 客户端:[百度盘](https://pan.baidu.com/s/1AJkpOc3js5Ssxx0QtSHr3A?pwd=cxj1)
