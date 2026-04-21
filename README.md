@@ -5,6 +5,7 @@
 - 石器重制版一区，使用3.0原版模板，部分4.0功能，四大家族，其他功能随着游戏时间逐步开放。
 - 专属服，可使用3.0原版模板，5.0原版模板，根据需求自行修改。
 - 永久开放，石器养老服！
+
   
 ## 社区
 - QQ1群：280473156
@@ -12,7 +13,7 @@
 - QQ3群：166586460
 - QQ4群：591757738
 - 微信群：
-<img width="256" height="512" alt="wx" src="https://github.com/user-attachments/assets/c674edb1-471c-4430-8e86-e1a3ff036b78" />
+- <img width="256" height="512" alt="01fb0cbb8fc2a46e71f74a62353c0335" src="https://github.com/user-attachments/assets/9e9b7708-e70d-4920-b8c9-eca80d1563c6" />
 
 ## 指引
 - [客户端指引](https://github.com/foxgame/StoneAgeRebuild/blob/master/Doc/Client/Install.md)
