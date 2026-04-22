@@ -43,6 +43,7 @@
 ## 快速使用
 - 申请大模型API KEY，修改config.xml key字段，默认需要五个模型，可根据情况自行添加
 - /ai x ，初始化ai，加载agents。
+- /ai trade，开启ai自由交易模式。
 - /a 指令，操作当前角色。/a 我要去xx村，AI会自动调用相关脚本操作。
 - /a chat 指令，指定chat agent模块执行指令。/a chat 聊两句。
 - 指挥其他角色，/r id，进入私聊模式，a:指令 需要对方已开启/ai
