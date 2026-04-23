@@ -26,5 +26,5 @@
 
 # 发布
 - 目前客户端mod编辑器暂时不可用，联系客服发布。
-- 自建服务器mod可以自行放入服务器Mods\目录下，并配置modActive.xml，同客户端语法相同。  <m id="mod id" />
+- 自建服务器mod可以自行放入服务器Mods\目录下，并配置mod.xml，并配置active="mod id"，目前只能加载单一mod。 
   
