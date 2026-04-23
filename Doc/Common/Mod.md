@@ -5,7 +5,6 @@
 # 客户端
 - Configs，客户端配置，参考Config
 - Animstions，动画文件，可以使用动画编辑器生成。
-- Animstions，动画文件，可以使用动画编辑器生成。
 - BattleMaps，战斗地图，可以使用地图编辑器生成。
 - Maps，地图文件，可以使用地图编辑器生成。
 - Music，音乐文件，ogg格式。
