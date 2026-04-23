@@ -15,7 +15,7 @@
 - Addon，插件脚本。
 
 # 服务器
-- Configs，服务器配置，参考Config，会同步给客户端使用。
+- Configs，服务器配置，参考Config，会自动同步给客户端使用。
 - Npcs，NPC配置，参考Config
 
 # 语法
