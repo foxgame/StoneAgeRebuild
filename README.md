@@ -18,7 +18,7 @@
 - QQ3群：166586460
 - QQ4群：591757738
 - 微信群：
-<img width="330" height="546" alt="90cdbdbf3741bc9aeb3ed930f0598bd2" src="https://github.com/user-attachments/assets/fb96983a-2033-4db9-bf54-13e3325d5fce" />
+<img width="330" height="546" alt="7f33314c4c55ffbc404116369ed3d6a7" src="https://github.com/user-attachments/assets/121a5399-0e52-46d8-81ea-de3daa472465" />
 
 ## 指引
 - [客户端指引](https://github.com/foxgame/StoneAgeRebuild/blob/master/Doc/Client/Install.md)
@@ -28,6 +28,7 @@
 
 ## 下载地址：
 - 客户端:[百度盘](https://pan.baidu.com/s/1AJkpOc3js5Ssxx0QtSHr3A?pwd=cxj1)
+<img width="930" height="1446" alt="7f33314c4c55ffbc404116369ed3d6a7" src="https://github.com/user-attachments/assets/be72464d-f00f-410b-a58f-18a09c00c83e" />
 
 ## sqfox老宣传图
 <img width="1136" height="640" alt="iphone5-1" src="https://github.com/user-attachments/assets/a52ca768-c81b-4084-acf4-83a4d660bdff" />
