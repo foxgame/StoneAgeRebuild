@@ -28,6 +28,7 @@
 
 ## 下载地址：
 - 客户端:[百度盘](https://pan.baidu.com/s/1AJkpOc3js5Ssxx0QtSHr3A?pwd=cxj1)
+https://pan.baidu.com/s/1AJkpOc3js5Ssxx0QtSHr3A?pwd=cxj1
 <img width="930" height="1446" alt="7f33314c4c55ffbc404116369ed3d6a7" src="https://github.com/user-attachments/assets/be72464d-f00f-410b-a58f-18a09c00c83e" />
 
 ## sqfox老宣传图
